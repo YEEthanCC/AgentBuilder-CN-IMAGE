@@ -29,15 +29,15 @@
     - 预览与运行: incomplete
   - 工作流程: incomplete
   - 应用程式发布: incomplete
-- 知识库: incomplete
-  - 建立知识库&上传文档: incomplete
-  - 知识库及文件维护: incomplete
-  - 在应用程式内整合知识库: incomplete
-  - 召回测试/引用归属: incomplete
-  - 从Notion 汇入数据: skip
-  - 从网页汇入数据: incomplete
-  - 透过API 维护知识库: incomplete
-  - 外部资料工具: incomplete
+- 知识库: done
+  - 建立知识库&上传文档: done
+  - 知识库及文件维护: done
+  - 在应用程式内整合知识库: done
+  - 召回测试/引用归属: done
+  - 从Notion 汇入数据: done
+  - 从网页汇入数据: done
+  - 透过API 维护知识库: done
+  - 外部资料工具: done
 - 工具: incomplete
   - 快速存取工具: skip
   - 进阶存取工具: skip
